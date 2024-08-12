@@ -55,6 +55,7 @@ a b
 *Solution given by the algorithm*:  
 
 (1, 2) (3, 4)
+
 (1, 2) (3, 4) (3, 5) (4, 5)
 
 **Example 2:** 
